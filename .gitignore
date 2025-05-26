@@ -36,3 +36,6 @@ build/
 
 # Visual Studio Code
 .vscode/
+
+# Testing artifacts
+Testing/
